@@ -5,3 +5,4 @@ TODO:
 - League of Legends skin changer ;P
 - Minecraft Texture Pack
 - Legit External Minecraft Cheat 
+- BetterDiscord theme
